@@ -1,0 +1,17 @@
+{
+  "name": "hello-purescript",
+  "version": "0.0.0",
+  "authors": [],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-prelude": "~0.1.2",
+    "purescript-console": "~0.1.0"
+  }
+}
